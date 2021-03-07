@@ -6,12 +6,12 @@ const About = () => {
       <Head>
         <title>Ninka List | About</title>
         <meta name="keywords" content="ninjas" />
-      </Head>{" "}
+      </Head>
       <div>
         <h1>About</h1>
         <p> Loreum Vitata</p>
         <p> Loreum Vitata</p>
-      </div>{" "}
+      </div>
     </>
   );
 };
